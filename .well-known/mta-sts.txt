@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: heracles.mxrouting.net
+mx: heracles-relay.mxrouting.net
+max_age: 604800
